@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Scientist/Analyst
 
 ### Education
 Bachelor's of Engineering | Electronics and Communication 
