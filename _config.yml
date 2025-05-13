@@ -1,6 +1,17 @@
 title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+# logo: /assets/img/logo.png
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/ash-gtx">GitHub</a>
+  
+  <br>   
+  Passionate about turning raw data into actionable insights, I bring experience in analytics, BI, and predictive modeling. 
+  With a background in SAP BW and hands-on skills in Python, SQL, and visualization tools, I thrive on solving real-world problems. 
+  Currently diving deeper into machine learning while exploring cross-domain projects that bridge data, business, and strategy.
+  <br>
+  </p>
+
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
