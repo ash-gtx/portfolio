@@ -41,5 +41,5 @@ Hello! I'm a data analyst and aspiring data scientist passionate about transform
 
 ---
 
-Feel free to explore each project in more detail and connect with me on [LinkedIn]([https://www.linkedin.com/in/ashish-shukla05/]) if you'd like to collaborate or discuss opportunities!
+Feel free to explore each project in more detail and connect with me on [LinkedIn](https://www.linkedin.com/in/ashish-shukla05/) if you'd like to collaborate or discuss opportunities!
 
