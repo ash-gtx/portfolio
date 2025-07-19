@@ -1,45 +1,49 @@
-# Data Science Portfolio
+# 👨‍💻 Data Science & Analytics Portfolio
 
-## Machine Learning
-
-Hello! I'm a data analyst and aspiring data scientist passionate about transforming raw data into meaningful insights. Below, you'll find a collection of my key projects that demonstrate my skills in data analysis, visualization, and machine learning.
+Welcome! I'm **Ashish Shukla**, a data analyst turned aspiring data scientist with 2.5+ years of professional experience in data extraction, transformation, and visualization using SAP BW/BI. I enjoy solving real-world business problems through data storytelling, predictive modeling, and clustering analysis. This portfolio showcases my end-to-end capabilities in Python, SQL, Power BI, and machine learning.
 
 ---
 
-## 🚗 Project 1: Car Sales Analysis [eBay]
+## 🚗 Car Sales Analysis [eBay]
 
-- Analyzed and cleaned eBay car sales data using Python.
-- Identified trends across vehicle types and regions.
-- Built visualizations using Matplotlib and Seaborn to highlight pricing trends and popular models.
-
----
-
-## 🚴 Project 2: Rental Bike Services [BoomBikes]
-
-- Built a Linear Regression model to predict daily bike rental demand using weather, seasonal, and user data.
-- Performed data cleaning, EDA, and feature engineering to enhance model accuracy.
-- Evaluated model performance using R-squared and delivered insights to optimize availability and revenue.
+- Cleaned and analyzed car sales data from eBay to uncover price and demand trends.
+- Built visualizations using Matplotlib and Seaborn to identify popular models and pricing patterns.
+- Provided insights useful for demand forecasting and market segmentation.
 
 ---
 
-## 🛍️ Project 3: UK Online Retail Transactions
+## 🚴 Rental Bike Services [BoomBikes]
 
-- Cleaned and preprocessed UK-based transaction data for clustering analysis.
-- Applied RFM analysis and K-Means clustering to identify customer segments.
-- Recommended data-driven marketing strategies based on customer behavior and cluster insights.
-
----
-
-### 💻 Skills Used Across Projects:
-
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- SQL
-- Data Cleaning & EDA
-- Regression & Clustering
-- Data Visualization
-- Jupyter Notebooks
+- Built a Linear Regression model to predict daily bike rental demand based on weather, seasonality, and user behavior.
+- Conducted EDA and feature engineering to improve model accuracy and insight extraction.
+- Delivered recommendations to optimize bike inventory and boost operational efficiency.
 
 ---
 
-Feel free to explore each project in more detail and connect with me on [LinkedIn](https://www.linkedin.com/in/ashish-shukla05/) if you'd like to collaborate or discuss opportunities!
+## 🛍️ UK Online Retail Transactions
 
+- Preprocessed and cleaned online retail data for clustering analysis.
+- Used RFM analysis and K-Means clustering to segment customers by behavior and frequency.
+- Delivered actionable strategies for targeted marketing and retention based on segments.
+
+---
+
+## 🛒 Retail Sales Dashboard [TATA Simulation]
+
+- Analyzed supermarket data using Python and Power BI to uncover revenue and customer insights.
+- Created interactive dashboards to help businesses answer questions about customer behavior, product demand, and region-wise sales.
+- Designed features for in-depth segmentation and store expansion recommendations.
+
+---
+
+## 🔧 Tools & Skills
+
+- **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, Seaborn), SQL  
+- **ML & Analytics:** Regression, Clustering, Feature Engineering, Model Evaluation, Statistical Maths  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Tools:** Jupyter Notebook, SAP BW, MySQL, ServiceNow, 
+
+---
+
+🚀 I’m open to remote roles, freelance projects, and collaborations in data science and analytics.  
+📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/ashish-shukla05/) to explore opportunities or just to say hi!
